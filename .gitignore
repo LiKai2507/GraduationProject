@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# dotenv
+.env
+
+# build
+dist/
+build/
+
+data/
+datasets/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
